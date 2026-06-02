@@ -7,6 +7,10 @@ enableDefault = true
 [markup.goldmark.renderHooks.link]
 enableDefault = true
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
   description = "A place for musings, ramblings, and progress records"
   favicon = "/favicon/favicon.ico"
