@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 31 May 2026 17:37:38 -0500</lastBuildDate>
+			<lastBuildDate>Tue, 02 Jun 2026 20:48:17 -0500</lastBuildDate>
 		
 			<atom:link href="https://crsanders.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Crystal</title>
+				<link>https://crsanders.github.io/posts/crystal/</link>
+				<pubDate>Tue, 02 Jun 2026 20:48:17 -0500</pubDate>
+				<guid>https://crsanders.github.io/posts/crystal/</guid>
+				<description>&lt;p&gt;An attempt at a simple crystal. I&amp;rsquo;m not entirely happy with the shading, but I am happy that I attempted it in the first place.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://crsanders.github.io/images/crystal.png&#34; alt=&#34;Crystal&#34;&gt;&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>First Post</title>
 				<link>https://crsanders.github.io/posts/first-post/</link>
